@@ -8,4 +8,4 @@ Check add-on message
 This project is a basic recipe website.
 Site will consist of:
 
-- Main index page with links to to a few reccipes.
+- Main index page with links to to a few recipes.
