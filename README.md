@@ -9,3 +9,17 @@ This project is a basic recipe website.
 Site will consist of:
 
 - Main index page with links to to a few recipes.
+
+Images from Pexels:
+
+- spinach.jpg
+  Rodolfo Quirós - Panamá
+  Instagram - rquirosfoto
+
+- salmonsmall.jpg
+  Malidate Van - PP, Phnom Penh, Cambodia
+  Instagram - Photaholic
+
+- banbread.jpg
+  Polina Tankilevitch - Moscow, Russia
+  Instagram - ptankilevitch
