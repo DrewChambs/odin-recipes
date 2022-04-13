@@ -9,6 +9,8 @@ This project is a basic recipe website.
 Site will consist of:
 
 - Main index page with links to to a few recipes.
+- # Link: 
+- https://drewchambs.github.io/odin-recipes/
 
 Images from Pexels:
 
