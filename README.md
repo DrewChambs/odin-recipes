@@ -1,5 +1,5 @@
 # Recipes webpage - The Odin Project Application
-Part of a series of appplications, and various web projects, from The Odin Project.
+Part of a series of applications, and various web projects, from The Odin Project.
 
 The task is to create a webpage with 3 seperate pages with images included on those subsequent pages. 
 
