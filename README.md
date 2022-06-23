@@ -1,18 +1,36 @@
-# odin-recipes
+# Recipes webpage - The Odin Project Application
+Part of a series of appplications, and various web projects, from The Odin Project.
 
-Initial recipe website set-up
-Check add-on message
+The task is to create a webpage with 3 seperate pages with images included on those subsequent pages. 
 
-# Poject
+# Table of contents
+•	Overview
+•	Link
+•	Built with
+•	Author - Andrew Chambers
+•	Website - andrewchambersweb.com
+•	Image Credits - Pexels
 
-This project is a basic recipe website.
-Site will consist of:
+# Overview 
+Recipe website with added links on initial page. Links lead to pages containing images
+of food and an accompanying recipe for that particular dish. Use ordered lists to 
+describe the cooking procedure.
 
-- Main index page with links to to a few recipes.
-- # Link: 
-- https://drewchambs.github.io/odin-recipes/
+# Link: 
+ https://drewchambs.github.io/odin-recipes/
 
-Images from Pexels:
+# Built with
+Built in VS Code using HTML, CSS.
+•	HTML5 
+•	CSS
+
+# Author
+Andrew Chambers
+
+# Website 
+andrewchambersweb.com
+
+# Images from Pexels:
 
 - spinach.jpg
   Rodolfo Quirós - Panamá
